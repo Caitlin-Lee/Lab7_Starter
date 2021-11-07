@@ -9,6 +9,7 @@ self.addEventListener('install', function (event) {
    * TODO - Part 2 Step 2
    * Create a function as outlined above
    */
+  
 });
 
 /**
